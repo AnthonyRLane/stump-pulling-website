@@ -1,8 +1,8 @@
 {
   "task": "Add fence post and boulder removal services to the stump pulling website",
-  "stage": "verified",
-  "nextStep": "Commit and publish the verified service expansion to GitHub Pages",
+  "stage": "complete",
+  "nextStep": "Anthony reviews the expanded services after GitHub Pages finishes propagating",
   "blockers": [],
   "artifacts": ["index.html", "styles.css", "script.js", "assets/photos/"],
-  "timestamp": "2026-08-05T13:12:00-07:00"
+  "timestamp": "2026-08-05T13:14:00-07:00"
 }
