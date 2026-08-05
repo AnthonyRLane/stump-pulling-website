@@ -1,8 +1,8 @@
 {
-  "task": "Update Jim's Stump Pulling branding and add two supplied job photos",
-  "stage": "complete",
-  "nextStep": "Publish the committed update to GitHub Pages",
+  "task": "List King, Snohomish, and Skagit counties as Jim's Stump Pulling service area",
+  "stage": "verified",
+  "nextStep": "Push the committed update to GitHub Pages after approval",
   "blockers": [],
-  "artifacts": ["index.html", "styles.css", "script.js", "assets/photos/"],
-  "timestamp": "2026-08-05T13:51:00-07:00"
+  "artifacts": ["index.html", "styles.css"],
+  "timestamp": "2026-08-05T14:13:00-07:00"
 }
