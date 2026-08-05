@@ -1,4 +1,4 @@
-const message = `Hi! I'd like a stump pulling quote.\n\nName:\nCity:\nNumber of stumps:\nApprox. stump widths:\nNarrowest gate/access width:\nI have photos ready: Yes / No`;
+const message = `Hi! I'd like a removal quote.\n\nName:\nCity:\nItem(s) to remove: Stump / Fence post / Boulder\nQuantity:\nApprox. measurements:\nNarrowest gate/access width:\nI have photos ready: Yes / No`;
 const smsHref = `sms:+12065494123?&body=${encodeURIComponent(message)}`;
 
 document.querySelectorAll('.sms-link').forEach((link) => {
