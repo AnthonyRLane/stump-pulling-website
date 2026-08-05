@@ -1,8 +1,8 @@
 {
-  "task": "List King, Snohomish, and Skagit counties as Jim's Stump Pulling service area",
-  "stage": "verified",
+  "task": "Simplify Jim's Stump Pulling mobile header",
+  "stage": "complete",
   "nextStep": "Push the committed update to GitHub Pages after approval",
   "blockers": [],
-  "artifacts": ["index.html", "styles.css"],
-  "timestamp": "2026-08-05T14:13:00-07:00"
+  "artifacts": ["styles.css"],
+  "timestamp": "2026-08-05T14:16:00-07:00"
 }
