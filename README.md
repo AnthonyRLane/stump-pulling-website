@@ -1,4 +1,4 @@
-# Stump Pulling Website
+# Jim's Stump Pulling Website
 
 A dependency-free static marketing site for a custom-built stump pulling service.
 
@@ -12,4 +12,4 @@ The project can be published directly from the repository root with GitHub Pages
 
 ## Before production
 
-Replace the temporary “Stump Pulling” brand, confirm service-area copy, add real machine/job photography, and confirm cleanup/backfill terms. Quote links are prefilled SMS messages to `(206) 549-4123`.
+Confirm service-area copy and cleanup/backfill terms. Quote links are prefilled SMS messages to `(206) 549-4123`.
