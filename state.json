@@ -1,8 +1,8 @@
 {
   "task": "Fix misplaced See How It Works label",
-  "stage": "verified",
-  "nextStep": "Commit and push the layout fix to AnthonyRLane/main",
+  "stage": "complete",
+  "nextStep": "Azure deployment picks up AnthonyRLane/main commit 5a880e3",
   "blockers": [],
   "artifacts": ["index.html", "/tmp/stump-layout-fixed.png", "/tmp/stump-layout-mobile.png"],
-  "timestamp": "2026-08-05T16:00:00-07:00"
+  "timestamp": "2026-08-05T16:03:00-07:00"
 }
