@@ -1,8 +1,8 @@
 {
   "task": "Comprehensive on-site SEO upgrade",
-  "stage": "validated-ready-to-push",
-  "nextStep": "Commit and push the SEO release to AnthonyRLane/main",
-  "blockers": [],
+  "stage": "complete",
+  "nextStep": "Azure deployment must pick up AnthonyRLane/main commit 91ac4f3",
+  "blockers": ["Production Azure site is still serving the previous build as of 2026-08-05T15:40:00-07:00"],
   "artifacts": ["index.html", "styles.css", "robots.txt", "sitemap.xml", "service and county landing pages"],
-  "timestamp": "2026-08-05T15:38:00-07:00"
+  "timestamp": "2026-08-05T15:40:00-07:00"
 }
